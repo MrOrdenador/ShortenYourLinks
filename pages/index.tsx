@@ -125,7 +125,7 @@ export default function Home() {
               <a href="https://x.com/mr0rdenador">
                 <XformerlyTwitter className="w-5.5 h-5.5 cursor-pointer" />
               </a>
-              <a href="https://github.com/MrOrdenador/ShortenYourLinks">
+              <a href="https://github.com/MrOrdenador">
                 <Github className="w-6 h-6 cursor-pointer" />
               </a>
             </div>
