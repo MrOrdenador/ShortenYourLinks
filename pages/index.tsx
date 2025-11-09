@@ -125,7 +125,7 @@ export default function Home() {
               <a href="https://x.com/mr0rdenador">
                 <XformerlyTwitter className="w-5.5 h-5.5 cursor-pointer" />
               </a>
-              <a href="https://github.com/MrOrdenador">
+              <a href="https://github.com/MrOrdenador/ShortenYourLinks">
                 <Github className="w-6 h-6 cursor-pointer" />
               </a>
             </div>
@@ -138,7 +138,7 @@ export default function Home() {
             <a href="https://x.com/mr0rdenador" className="text-zinc-300 hover:text-blue-400 transition-colors">
               <XformerlyTwitter className="w-6 h-6" />
             </a>
-            <a href="https://github.com/MrOrdenador" className="text-zinc-300 hover:text-blue-400 transition-colors">
+            <a href="https://github.com/MrOrdenador/ShortenYourLinks" className="text-zinc-300 hover:text-blue-400 transition-colors">
               <Github className="w-6 h-6" />
             </a>
           </footer>
